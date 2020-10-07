@@ -1,4 +1,4 @@
-# TodoList
+# Main info todo
 
 To start your Phoenix server:
 
